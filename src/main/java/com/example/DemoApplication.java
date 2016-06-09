@@ -6,10 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * 
  * Commented by shibila
- * Change A
- * Change B
- * Change D
- * Change F
  * @author sesame
  *
  */
